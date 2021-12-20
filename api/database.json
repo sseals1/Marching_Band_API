@@ -24,1010 +24,823 @@
       "id": 5,
       "name": "Collin Hayes",
       "email": "collin@email.com"
+    },
+    {
+      "name": "suth",
+      "email": "suth@email.com",
+      "id": 6
     }
   ],
   "rentals": [
     {
       "userId": 2,
-      "startDate": "12/24/2020",
-      "endDate": "12/29/2020",
-      "totalCost": 26.4,
+      "startDate": "12/19/2021",
+      "endDate": "12/20/2021",
+      "totalCost": 27.71,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "startDate": "12/28/2021",
+      "endDate": "12/31/2021",
+      "totalCost": 75,
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "startDate": "12/1/2021",
+      "endDate": "12/5/2021",
+      "totalCost": 27.71,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "startDate": "12/10/2019",
+      "endDate": "12/15/2019",
+      "totalCost": 75,
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "startDate": "12/23/2021",
+      "endDate": "12/29/2021",
+      "totalCost": 144,
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "startDate": "12/19/2021",
+      "endDate": "12/23/2021",
+      "totalCost": 80,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "startDate": "12/19/2021",
+      "endDate": "12/22/2021",
+      "totalCost": 60,
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "startDate": "12/21/2021",
+      "endDate": "12/24/2021",
+      "totalCost": 69,
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "startDate": "12/21/2021",
+      "endDate": "12/31/2021",
+      "totalCost": 220,
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "startDate": "12/20/2021",
+      "endDate": "12/24/2021",
+      "totalCost": 92,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "startDate": "12/21/2021",
+      "endDate": "12/23/2021",
+      "totalCost": 46,
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "startDate": "12/21/2021",
+      "endDate": "12/30/2021",
+      "totalCost": 198,
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "startDate": "12/25/2021",
+      "endDate": "12/24/2021",
+      "totalCost": -22,
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "startDate": "12/24/2021",
+      "endDate": "12/28/2021",
+      "totalCost": 86.84,
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "startDate": "12/20/2021",
+      "endDate": "12/30/2021",
+      "totalCost": 230,
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "startDate": "12/24/2021",
+      "endDate": "12/29/2021",
+      "totalCost": 33.75,
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "startDate": "12/21/2021",
+      "endDate": "12/23/2021",
+      "totalCost": 44,
       "id": 17
     },
     {
-      "userId": 2,
-      "startDate": "12/23/2018",
-      "endDate": "12/29/2018",
-      "totalCost": 34.5,
+      "userId": 6,
+      "startDate": "12/20/2021",
+      "endDate": "12/24/2021",
+      "totalCost": 94.36,
       "id": 18
     },
     {
-      "userId": 2,
-      "startDate": "12/17/2017",
-      "endDate": "12/30/2017",
-      "totalCost": 74.75,
+      "userId": 6,
+      "id": 19
+    },
+    {
+      "userId": 6,
       "id": 20
     },
     {
-      "userId": 2,
-      "startDate": "12/17/2021",
-      "endDate": "12/24/2021",
-      "totalCost": 36.96,
+      "userId": 6,
+      "startDate": "12/21/2021",
+      "endDate": "12/30/2021",
+      "totalCost": 225,
       "id": 21
     },
     {
       "userId": 2,
-      "startDate": "12/17/2021",
+      "startDate": "12/20/2021",
       "endDate": "12/30/2021",
-      "totalCost": 74.75,
+      "totalCost": 220,
       "id": 22
     },
     {
       "userId": 2,
-      "startDate": "12/17/2021",
+      "startDate": "12/26/2021",
       "endDate": "12/30/2021",
-      "totalCost": 68.64,
+      "totalCost": 88,
       "id": 23
     },
     {
       "userId": 2,
-      "startDate": "12/2/2021",
-      "endDate": "12/29/2021",
-      "totalCost": 209.25,
+      "startDate": "12/20/2021",
+      "endDate": "12/27/2021",
+      "totalCost": 154,
       "id": 24
     },
     {
-      "userId": 1,
-      "startDate": "12/17/2021",
+      "userId": 6,
+      "startDate": "12/21/2021",
       "endDate": "12/30/2021",
-      "totalCost": 0,
+      "totalCost": 180,
       "id": 25
     },
     {
-      "userId": 2,
+      "userId": 6,
       "startDate": "12/23/2021",
-      "endDate": "12/29/2021",
-      "totalCost": 34.5,
+      "endDate": "12/28/2021",
+      "totalCost": 105,
       "id": 26
-    },
-    {
-      "userId": 2,
-      "startDate": "12/18/2021",
-      "endDate": "12/29/2021",
-      "totalCost": 85.25,
-      "id": 27
-    },
-    {
-      "userId": 2,
-      "startDate": "12/22/2021",
-      "endDate": "12/28/2021",
-      "totalCost": 34.5,
-      "id": 29
-    },
-    {
-      "userId": 2,
-      "startDate": "12/23/2021",
-      "endDate": "12/28/2021",
-      "totalCost": 28.75,
-      "id": 31
-    },
-    {
-      "userId": 2,
-      "startDate": "12/23/2021",
-      "endDate": "12/29/2021",
-      "totalCost": 0,
-      "id": 33
-    },
-    {
-      "userId": 2,
-      "startDate": "12/18/2021",
-      "endDate": "12/20/2021",
-      "totalCost": 0,
-      "id": 34
-    },
-    {
-      "userId": 2,
-      "startDate": "12/18/2021",
-      "endDate": "12/19/2021",
-      "totalCost": 0,
-      "id": 35
-    },
-    {
-      "userId": 2,
-      "startDate": "12/18/2021",
-      "endDate": "12/28/2021",
-      "totalCost": [],
-      "id": 36
-    },
-    {
-      "userId": 4,
-      "startDate": "12/19/2021",
-      "endDate": "12/31/2021",
-      "totalCost": [],
-      "id": 37
-    },
-    {
-      "userId": 4,
-      "startDate": "12/18/2021",
-      "endDate": "12/22/2021",
-      "totalCost": [],
-      "id": 38
-    },
-    {
-      "userId": 4,
-      "startDate": "12/18/2021",
-      "endDate": "12/29/2021",
-      "totalCost": [],
-      "id": 39
-    },
-    {
-      "userId": 4,
-      "startDate": "12/2/2021",
-      "endDate": "12/9/2021",
-      "totalCost": [],
-      "id": 40
-    },
-    {
-      "userId": 4,
-      "startDate": "12/3/2021",
-      "endDate": "12/8/2021",
-      "totalCost": [],
-      "id": 41
-    },
-    {
-      "userId": 4,
-      "startDate": "12/8/2021",
-      "endDate": "12/26/2021",
-      "totalCost": [],
-      "id": 42
-    },
-    {
-      "userId": 4,
-      "startDate": "12/29/2021",
-      "endDate": "12/15/2021",
-      "totalCost": [],
-      "id": 43
-    },
-    {
-      "userId": 4,
-      "id": 44
-    },
-    {
-      "userId": 4,
-      "id": 45
-    },
-    {
-      "userId": 4,
-      "id": 46
-    },
-    {
-      "userId": 4,
-      "id": 47
-    },
-    {
-      "userId": 4,
-      "id": 48
-    },
-    {
-      "userId": 4,
-      "id": 49
-    },
-    {
-      "userId": 4,
-      "id": 50
-    },
-    {
-      "userId": 4,
-      "id": 51
-    },
-    {
-      "userId": 4,
-      "id": 52
-    },
-    {
-      "userId": 4,
-      "id": 53
-    },
-    {
-      "userId": 4,
-      "id": 54
-    },
-    {
-      "userId": 4,
-      "startDate": "12/18/2021",
-      "endDate": "12/29/2021",
-      "totalCost": [],
-      "id": 55
-    },
-    {
-      "userId": 4,
-      "id": 56
-    },
-    {
-      "userId": 4,
-      "startDate": "12/18/2021",
-      "endDate": "12/23/2021",
-      "totalCost": [],
-      "id": 57
-    },
-    {
-      "userId": 4,
-      "startDate": "12/18/2021",
-      "endDate": "12/28/2021",
-      "totalCost": [],
-      "id": 58
-    },
-    {
-      "userId": 4,
-      "id": 59
-    },
-    {
-      "userId": 4,
-      "id": 60
-    },
-    {
-      "userId": 4,
-      "id": 61
-    },
-    {
-      "userId": 4,
-      "id": 62
-    },
-    {
-      "userId": 4,
-      "startDate": "12/21/2021",
-      "endDate": "12/31/2021",
-      "totalCost": [],
-      "id": 63
-    },
-    {
-      "userId": 4,
-      "id": 64
-    },
-    {
-      "userId": 4,
-      "id": 65
-    },
-    {
-      "userId": 4,
-      "id": 66
-    },
-    {
-      "userId": 4,
-      "id": 67
-    },
-    {
-      "userId": 4,
-      "startDate": "12/24/2021",
-      "endDate": "12/29/2021",
-      "totalCost": [],
-      "id": 68
-    },
-    {
-      "userId": 4,
-      "startDate": "12/23/2021",
-      "endDate": "12/29/2021",
-      "totalCost": [],
-      "id": 69
-    },
-    {
-      "userId": 4,
-      "id": 70
     }
   ],
   "chosenInstruments": [
     {
-      "instrumentId": 5,
-      "rentalId": 17,
+      "instrumentId": 4,
+      "rentalId": 2,
       "id": 5
     },
     {
-      "instrumentId": 2,
-      "rentalId": 36,
-      "id": 20
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 36,
-      "id": 21
-    },
-    {
-      "instrumentId": 12,
-      "rentalId": 36,
-      "id": 22
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 43,
-      "id": 23
-    },
-    {
-      "instrumentId": 7,
-      "rentalId": 43,
-      "id": 24
+      "instrumentId": 9,
+      "rentalId": 2,
+      "id": 6
     },
     {
       "instrumentId": 14,
-      "rentalId": 43,
-      "id": 25
+      "rentalId": 2,
+      "id": 7
     },
     {
-      "instrumentId": 17,
-      "rentalId": 43,
-      "id": 26
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 44,
-      "id": 27
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 44,
-      "id": 28
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 44,
-      "id": 29
-    },
-    {
-      "instrumentId": 16,
-      "rentalId": 44,
-      "id": 30
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 45,
-      "id": 31
-    },
-    {
-      "instrumentId": 5,
-      "rentalId": 45,
-      "id": 32
-    },
-    {
-      "instrumentId": 10,
-      "rentalId": 45,
-      "id": 33
-    },
-    {
-      "instrumentId": 16,
-      "rentalId": 45,
-      "id": 34
-    },
-    {
-      "instrumentId": 1,
-      "rentalId": 46,
-      "id": 35
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 46,
-      "id": 36
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 46,
-      "id": 37
-    },
-    {
-      "instrumentId": 16,
-      "rentalId": 46,
-      "id": 38
+      "instrumentId": 19,
+      "rentalId": 2,
+      "id": 8
     },
     {
       "instrumentId": 4,
-      "rentalId": 47,
+      "rentalId": 3,
+      "id": 9
+    },
+    {
+      "instrumentId": 6,
+      "rentalId": 3,
+      "id": 10
+    },
+    {
+      "instrumentId": 11,
+      "rentalId": 3,
+      "id": 11
+    },
+    {
+      "instrumentId": 17,
+      "rentalId": 3,
+      "id": 12
+    },
+    {
+      "instrumentId": 1,
+      "rentalId": 4,
+      "id": 13
+    },
+    {
+      "instrumentId": 8,
+      "rentalId": 4,
+      "id": 14
+    },
+    {
+      "instrumentId": 13,
+      "rentalId": 4,
+      "id": 15
+    },
+    {
+      "instrumentId": 18,
+      "rentalId": 4,
+      "id": 16
+    },
+    {
+      "instrumentId": 18,
+      "rentalId": 5,
+      "id": 17
+    },
+    {
+      "instrumentId": 12,
+      "rentalId": 5,
+      "id": 18
+    },
+    {
+      "instrumentId": 3,
+      "rentalId": 5,
+      "id": 19
+    },
+    {
+      "instrumentId": 8,
+      "rentalId": 5,
+      "id": 20
+    },
+    {
+      "instrumentId": 12,
+      "rentalId": 6,
+      "id": 21
+    },
+    {
+      "instrumentId": 3,
+      "rentalId": 6,
+      "id": 22
+    },
+    {
+      "instrumentId": 8,
+      "rentalId": 6,
+      "id": 23
+    },
+    {
+      "instrumentId": 17,
+      "rentalId": 6,
+      "id": 24
+    },
+    {
+      "instrumentId": 1,
+      "rentalId": 7,
+      "id": 25
+    },
+    {
+      "instrumentId": 7,
+      "rentalId": 7,
+      "id": 26
+    },
+    {
+      "instrumentId": 11,
+      "rentalId": 7,
+      "id": 27
+    },
+    {
+      "instrumentId": 17,
+      "rentalId": 7,
+      "id": 28
+    },
+    {
+      "instrumentId": 2,
+      "rentalId": 8,
+      "id": 29
+    },
+    {
+      "instrumentId": 7,
+      "rentalId": 8,
+      "id": 30
+    },
+    {
+      "instrumentId": 12,
+      "rentalId": 8,
+      "id": 31
+    },
+    {
+      "instrumentId": 17,
+      "rentalId": 8,
+      "id": 32
+    },
+    {
+      "instrumentId": 2,
+      "rentalId": 9,
+      "id": 33
+    },
+    {
+      "instrumentId": 7,
+      "rentalId": 9,
+      "id": 34
+    },
+    {
+      "instrumentId": 18,
+      "rentalId": 9,
+      "id": 35
+    },
+    {
+      "instrumentId": 11,
+      "rentalId": 9,
+      "id": 36
+    },
+    {
+      "instrumentId": 2,
+      "rentalId": 10,
+      "id": 37
+    },
+    {
+      "instrumentId": 7,
+      "rentalId": 10,
+      "id": 38
+    },
+    {
+      "instrumentId": 11,
+      "rentalId": 10,
       "id": 39
     },
     {
-      "instrumentId": 5,
-      "rentalId": 47,
+      "instrumentId": 17,
+      "rentalId": 10,
       "id": 40
     },
     {
-      "instrumentId": 10,
-      "rentalId": 47,
+      "instrumentId": 1,
+      "rentalId": 11,
       "id": 41
     },
     {
-      "instrumentId": 15,
-      "rentalId": 47,
+      "instrumentId": 7,
+      "rentalId": 11,
       "id": 42
     },
     {
-      "instrumentId": 2,
-      "rentalId": 48,
+      "instrumentId": 12,
+      "rentalId": 11,
       "id": 43
     },
     {
-      "instrumentId": 7,
-      "rentalId": 48,
+      "instrumentId": 16,
+      "rentalId": 11,
       "id": 44
     },
     {
-      "instrumentId": 12,
-      "rentalId": 48,
+      "instrumentId": 1,
+      "rentalId": 12,
       "id": 45
     },
     {
-      "instrumentId": 16,
-      "rentalId": 48,
+      "instrumentId": 7,
+      "rentalId": 12,
       "id": 46
     },
     {
-      "instrumentId": 2,
-      "rentalId": 49,
+      "instrumentId": 12,
+      "rentalId": 12,
       "id": 47
     },
     {
-      "instrumentId": 7,
-      "rentalId": 49,
+      "instrumentId": 17,
+      "rentalId": 12,
       "id": 48
     },
     {
-      "instrumentId": 13,
-      "rentalId": 49,
+      "instrumentId": 1,
+      "rentalId": 13,
       "id": 49
     },
     {
-      "instrumentId": 17,
-      "rentalId": 49,
+      "instrumentId": 7,
+      "rentalId": 13,
       "id": 50
     },
     {
-      "instrumentId": 2,
-      "rentalId": 50,
+      "instrumentId": 12,
+      "rentalId": 13,
       "id": 51
     },
     {
-      "instrumentId": 5,
-      "rentalId": 50,
+      "instrumentId": 17,
+      "rentalId": 13,
       "id": 52
     },
     {
-      "instrumentId": 14,
-      "rentalId": 50,
-      "id": 53
-    },
-    {
-      "instrumentId": 16,
-      "rentalId": 50,
-      "id": 54
-    },
-    {
-      "instrumentId": 1,
-      "rentalId": 51,
+      "instrumentId": 11,
+      "rentalId": 13,
       "id": 55
     },
     {
-      "instrumentId": 6,
-      "rentalId": 51,
+      "instrumentId": 17,
+      "rentalId": 13,
       "id": 56
     },
     {
-      "instrumentId": 12,
-      "rentalId": 51,
+      "instrumentId": 4,
+      "rentalId": 14,
       "id": 57
     },
     {
-      "instrumentId": 17,
-      "rentalId": 51,
+      "instrumentId": 9,
+      "rentalId": 14,
       "id": 58
     },
     {
-      "instrumentId": 2,
-      "rentalId": 52,
+      "instrumentId": 12,
+      "rentalId": 14,
       "id": 59
     },
     {
-      "instrumentId": 7,
-      "rentalId": 52,
+      "instrumentId": 17,
+      "rentalId": 14,
       "id": 60
     },
     {
-      "instrumentId": 11,
-      "rentalId": 52,
+      "instrumentId": 1,
+      "rentalId": 15,
       "id": 61
     },
     {
-      "instrumentId": 18,
-      "rentalId": 52,
+      "instrumentId": 8,
+      "rentalId": 15,
       "id": 62
     },
     {
-      "instrumentId": 2,
-      "rentalId": 53,
+      "instrumentId": 11,
+      "rentalId": 15,
       "id": 63
     },
     {
-      "instrumentId": 6,
-      "rentalId": 53,
+      "instrumentId": 17,
+      "rentalId": 15,
       "id": 64
     },
     {
-      "instrumentId": 11,
-      "rentalId": 53,
+      "instrumentId": 13,
+      "rentalId": 16,
       "id": 65
     },
     {
-      "instrumentId": 17,
-      "rentalId": 53,
+      "instrumentId": 2,
+      "rentalId": 17,
       "id": 66
     },
     {
-      "instrumentId": 2,
-      "rentalId": 54,
+      "instrumentId": 8,
+      "rentalId": 17,
       "id": 67
     },
     {
-      "instrumentId": 7,
-      "rentalId": 54,
+      "instrumentId": 12,
+      "rentalId": 17,
       "id": 68
     },
     {
-      "instrumentId": 13,
-      "rentalId": 54,
+      "instrumentId": 17,
+      "rentalId": 17,
       "id": 69
     },
     {
-      "instrumentId": 17,
-      "rentalId": 54,
+      "instrumentId": 2,
+      "rentalId": 18,
       "id": 70
     },
     {
-      "instrumentId": 2,
-      "rentalId": 55,
+      "instrumentId": 7,
+      "rentalId": 18,
       "id": 71
     },
     {
-      "instrumentId": 6,
-      "rentalId": 55,
+      "instrumentId": 10,
+      "rentalId": 18,
       "id": 72
     },
     {
-      "instrumentId": 11,
-      "rentalId": 55,
+      "instrumentId": 17,
+      "rentalId": 18,
       "id": 73
     },
     {
-      "instrumentId": 16,
-      "rentalId": 55,
+      "instrumentId": 4,
+      "rentalId": 19,
       "id": 74
     },
     {
-      "instrumentId": 3,
-      "rentalId": 56,
+      "instrumentId": 8,
+      "rentalId": 19,
       "id": 75
     },
     {
-      "instrumentId": 7,
-      "rentalId": 56,
+      "instrumentId": 12,
+      "rentalId": 19,
       "id": 76
     },
     {
-      "instrumentId": 12,
-      "rentalId": 56,
+      "instrumentId": 18,
+      "rentalId": 19,
       "id": 77
     },
     {
-      "instrumentId": 17,
-      "rentalId": 56,
+      "instrumentId": 2,
+      "rentalId": 20,
       "id": 78
     },
     {
-      "instrumentId": 2,
-      "rentalId": 57,
+      "instrumentId": 7,
+      "rentalId": 20,
       "id": 79
     },
     {
-      "instrumentId": 7,
-      "rentalId": 57,
+      "instrumentId": 10,
+      "rentalId": 20,
       "id": 80
     },
     {
-      "instrumentId": 12,
-      "rentalId": 57,
+      "instrumentId": 16,
+      "rentalId": 20,
       "id": 81
     },
     {
-      "instrumentId": 17,
-      "rentalId": 57,
+      "instrumentId": 2,
+      "rentalId": 21,
       "id": 82
     },
     {
-      "instrumentId": 1,
-      "rentalId": 58,
+      "instrumentId": 6,
+      "rentalId": 21,
       "id": 83
     },
     {
-      "instrumentId": 6,
-      "rentalId": 58,
+      "instrumentId": 11,
+      "rentalId": 21,
       "id": 84
     },
     {
-      "instrumentId": 11,
-      "rentalId": 58,
+      "instrumentId": 17,
+      "rentalId": 21,
       "id": 85
     },
     {
-      "instrumentId": 18,
-      "rentalId": 58,
+      "instrumentId": 2,
+      "rentalId": 22,
       "id": 86
     },
     {
-      "instrumentId": 2,
-      "rentalId": 59,
+      "instrumentId": 7,
+      "rentalId": 22,
       "id": 87
     },
     {
-      "instrumentId": 5,
-      "rentalId": 59,
+      "instrumentId": 12,
+      "rentalId": 22,
       "id": 88
     },
     {
-      "instrumentId": 12,
-      "rentalId": 59,
+      "instrumentId": 17,
+      "rentalId": 22,
       "id": 89
     },
     {
-      "instrumentId": 16,
-      "rentalId": 59,
+      "instrumentId": 3,
+      "rentalId": 23,
       "id": 90
     },
     {
-      "instrumentId": 2,
-      "rentalId": 60,
+      "instrumentId": 7,
+      "rentalId": 23,
       "id": 91
     },
     {
-      "instrumentId": 6,
-      "rentalId": 60,
+      "instrumentId": 13,
+      "rentalId": 23,
       "id": 92
     },
     {
-      "instrumentId": 12,
-      "rentalId": 60,
+      "instrumentId": 18,
+      "rentalId": 23,
       "id": 93
     },
     {
-      "instrumentId": 18,
-      "rentalId": 60,
+      "instrumentId": 2,
+      "rentalId": 24,
       "id": 94
     },
     {
-      "instrumentId": 2,
-      "rentalId": 61,
+      "instrumentId": 7,
+      "rentalId": 24,
       "id": 95
     },
     {
-      "instrumentId": 6,
-      "rentalId": 61,
+      "instrumentId": 12,
+      "rentalId": 24,
       "id": 96
     },
     {
-      "instrumentId": 13,
-      "rentalId": 61,
+      "instrumentId": 16,
+      "rentalId": 24,
       "id": 97
     },
     {
-      "instrumentId": 17,
-      "rentalId": 61,
+      "instrumentId": 3,
+      "rentalId": 25,
       "id": 98
     },
     {
-      "instrumentId": 3,
-      "rentalId": 62,
+      "instrumentId": 7,
+      "rentalId": 25,
       "id": 99
     },
     {
-      "instrumentId": 7,
-      "rentalId": 62,
+      "instrumentId": 12,
+      "rentalId": 25,
       "id": 100
     },
     {
-      "instrumentId": 11,
-      "rentalId": 62,
+      "instrumentId": 17,
+      "rentalId": 25,
       "id": 101
     },
     {
-      "instrumentId": 17,
-      "rentalId": 62,
+      "instrumentId": 3,
+      "rentalId": 26,
       "id": 102
     },
     {
-      "instrumentId": 1,
-      "rentalId": 63,
+      "instrumentId": 8,
+      "rentalId": 26,
       "id": 103
     },
     {
-      "instrumentId": 7,
-      "rentalId": 63,
+      "instrumentId": 11,
+      "rentalId": 26,
       "id": 104
     },
     {
-      "instrumentId": 12,
-      "rentalId": 63,
+      "instrumentId": 17,
+      "rentalId": 26,
       "id": 105
-    },
-    {
-      "instrumentId": 18,
-      "rentalId": 63,
-      "id": 106
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 64,
-      "id": 107
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 64,
-      "id": 108
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 64,
-      "id": 109
-    },
-    {
-      "instrumentId": 17,
-      "rentalId": 64,
-      "id": 110
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 65,
-      "id": 111
-    },
-    {
-      "instrumentId": 5,
-      "rentalId": 65,
-      "id": 112
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 65,
-      "id": 113
-    },
-    {
-      "instrumentId": 17,
-      "rentalId": 65,
-      "id": 114
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 66,
-      "id": 115
-    },
-    {
-      "instrumentId": 7,
-      "rentalId": 66,
-      "id": 116
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 66,
-      "id": 117
-    },
-    {
-      "instrumentId": 17,
-      "rentalId": 66,
-      "id": 118
-    },
-    {
-      "instrumentId": 1,
-      "rentalId": 67,
-      "id": 119
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 67,
-      "id": 120
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 67,
-      "id": 121
-    },
-    {
-      "instrumentId": 16,
-      "rentalId": 67,
-      "id": 122
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 68,
-      "id": 123
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 68,
-      "id": 124
-    },
-    {
-      "instrumentId": 12,
-      "rentalId": 68,
-      "id": 125
-    },
-    {
-      "instrumentId": 17,
-      "rentalId": 68,
-      "id": 126
-    },
-    {
-      "instrumentId": 2,
-      "rentalId": 69,
-      "id": 127
-    },
-    {
-      "instrumentId": 6,
-      "rentalId": 69,
-      "id": 128
-    },
-    {
-      "instrumentId": 13,
-      "rentalId": 69,
-      "id": 129
-    },
-    {
-      "instrumentId": 18,
-      "rentalId": 69,
-      "id": 130
-    },
-    {
-      "instrumentId": 1,
-      "rentalId": 70,
-      "id": 131
-    },
-    {
-      "instrumentId": 7,
-      "rentalId": 70,
-      "id": 132
-    },
-    {
-      "instrumentId": 11,
-      "rentalId": 70,
-      "id": 133
-    },
-    {
-      "instrumentId": 16,
-      "rentalId": 70,
-      "id": 134
     }
   ],
   "instruments": [
     {
       "id": 1,
       "instrumentFamilyId": 1,
-      "instrumentName": "tuba",
+      "instrumentName": "Tuba",
       "quatity": 10,
       "costPerDay": 5.75
     },
     {
       "id": 2,
       "instrumentFamilyId": 1,
-      "instrumentName": "trumpet",
+      "instrumentName": "Trumpet",
       "quatity": 16,
       "costPerDay": 5.75
     },
     {
       "id": 3,
       "instrumentFamilyId": 1,
-      "instrumentName": "trombone",
+      "instrumentName": "Trombone",
       "quatity": 5,
       "costPerDay": 3.75
     },
     {
       "id": 4,
       "instrumentFamilyId": 1,
-      "instrumentName": "french horn",
+      "instrumentName": "French Horn",
       "quatity": 6,
       "costPerDay": 5.75
     },
     {
       "id": 5,
       "instrumentFamilyId": 2,
-      "instrumentName": "guitar",
+      "instrumentName": "Guitar",
       "quatity": 20,
       "costPerDay": 5.28
     },
     {
       "id": 6,
       "instrumentFamilyId": 2,
-      "instrumentName": "violin",
+      "instrumentName": "Violin",
       "quatity": 13,
       "costPerDay": 7.75
     },
     {
       "id": 7,
       "instrumentFamilyId": 2,
-      "instrumentName": "cello",
+      "instrumentName": "Cello",
       "quatity": 27,
       "costPerDay": 5.75
     },
     {
       "id": 8,
       "instrumentFamilyId": 2,
-      "instrumentName": "harp",
+      "instrumentName": "Harp",
       "quatity": 19,
       "costPerDay": 5.75
     },
     {
       "id": 9,
       "instrumentFamilyId": 2,
-      "instrumentName": "contrabass",
+      "instrumentName": "Contrabass",
       "quatity": 30,
       "costPerDay": 5.46
     },
     {
       "id": 10,
       "instrumentFamilyId": 3,
-      "instrumentName": "saxophone",
+      "instrumentName": "Saxophone",
       "quatity": 23,
       "costPerDay": 6.34
     },
     {
       "id": 11,
       "instrumentFamilyId": 3,
-      "instrumentName": "flute",
+      "instrumentName": "Flute",
       "quatity": 42,
       "costPerDay": 5.75
     },
     {
       "id": 12,
       "instrumentFamilyId": 3,
-      "instrumentName": "clarinet",
+      "instrumentName": "Clarinet",
       "quatity": 10,
       "costPerDay": 4.75
     },
     {
       "id": 13,
       "instrumentFamilyId": 3,
-      "instrumentName": "bassoon",
+      "instrumentName": "Bassoon",
       "quatity": 7,
       "costPerDay": 6.75
     },
     {
       "id": 14,
       "instrumentFamilyId": 3,
-      "instrumentName": "oboe",
+      "instrumentName": "Oboe",
       "quatity": 23,
       "costPerDay": 10.75
     },
     {
       "id": 15,
       "instrumentFamilyId": 4,
-      "instrumentName": "triangle",
+      "instrumentName": "Triangle",
       "quatity": 10,
       "costPerDay": 5.75
     },
     {
       "id": 16,
       "instrumentFamilyId": 4,
-      "instrumentName": "cymbals",
+      "instrumentName": "Cymbals",
       "quatity": 12,
       "costPerDay": 5.75
     },
     {
       "id": 17,
       "instrumentFamilyId": 4,
-      "instrumentName": "bass drum",
+      "instrumentName": "Bass drum",
       "quatity": 7,
       "costPerDay": 5.75
     },
     {
       "id": 18,
       "instrumentFamilyId": 4,
-      "instrumentName": "snare drum",
+      "instrumentName": "Snare drum",
       "quatity": 21,
       "costPerDay": 5.75
     },
     {
       "id": 19,
       "instrumentFamilyId": 4,
-      "instrumentName": "timpani",
+      "instrumentName": "Timpani",
       "quatity": 18,
       "costPerDay": 5.75
     }
